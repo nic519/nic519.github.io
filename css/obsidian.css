@@ -252,7 +252,7 @@ audio {
   border-bottom-right-radius: 200px;
 }
 #screen .cover {
-  position: absolute;
+/* position: absolute; */
   top: 0;
   left: 30%;
   width: 1200px;
@@ -2288,7 +2288,7 @@ h1.title {
   opacity: 0.75;
 }
 .post {
-  min-height: 500px;
+  min-height: 300px;
   width: 60%;
   position: relative;
   display: block;

@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>录音文件上传</title>
+      <link href="//yuque/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/"/>
+      <url>//yuque/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</url>
+      
+        <content type="html"><![CDATA[<p>暂定名为TransferRecord，方便文章引用</p><p><a name="qa4pT"></a></p><h2 id="工具解决的问题"><a href="#工具解决的问题" class="headerlink" title="工具解决的问题"></a>工具解决的问题</h2><p>方便在模型未产品化前，大量收集由用户录制的音频，去实时验证深度学习的效果。（或单纯收集音频也行）</p><p><a name="gMANx"></a></p><h2 id="收集音频-流程图"><a href="#收集音频-流程图" class="headerlink" title="收集音频 流程图"></a>收集音频 流程图</h2><p><img src="https://cdn.nlark.com/yuque/__flowchart/3da8a884e3afb62a86e93c0106460525.svg#lake_card_v2=eyJjb2RlIjoic3Q9PnN0YXJ0OiAxLuWcqOaJi-acuuiHquW4pueahOW9lemfs-i9r-S7tuW9lemfsyAyLuWcqOiNlOaeneaIluWFtuS7lmFwcOW9lemfs1xub3AxPT5vcGVyYXRpb246IOaJvuWIsOW9lemfs-aWh-S7tlxub3AyPT5vcGVyYXRpb246IOeCueWHu-WIhuS6q-WIsFRyYW5zZmVyUmVjb3JkXG5lPT5lbmQ6IOaTjeS9nOe7k-adnyBcblxuc3QtPm9wMS0-b3AyLT5lIiwidXJsIjoiaHR0cHM6Ly9jZG4ubmxhcmsuY29tL3l1cXVlL19fZmxvd2NoYXJ0LzNkYThhODg0ZTNhZmI2MmE4NmU5M2MwMTA2NDYwNTI1LnN2ZyIsInR5cGUiOiJmbG93Y2hhcnQiLCJpZCI6IjY3c09HIiwiY2FyZCI6ImRpYWdyYW0ifQ==" alt=""><br><a name="HWsqe"></a></p><h2 id="收集音频-软件交互"><a href="#收集音频-软件交互" class="headerlink" title="收集音频 软件交互"></a>收集音频 软件交互</h2><p><img src="https://cdn.nlark.com/yuque/0/2019/png/268429/1563434956658-0277cf93-e073-43d5-80ff-b7be6c8cec8d.png#align=left&display=inline&height=302&name=image.png&originHeight=2160&originWidth=1080&size=241242&status=done&style=none&width=151" alt="image.png"><br><a name="DROyZ"></a></p><h3 id="技术预研"><a href="#技术预研" class="headerlink" title="技术预研"></a>技术预研</h3><blockquote><p>（这块实现细节不用看）</p></blockquote><ul><li>ios实现：<a href="https://www.jianshu.com/p/eb4046478ed6" target="_blank" rel="noopener">https://www.jianshu.com/p/eb4046478ed6</a></li><li>Android实现：<a href="https://www.jianshu.com/p/30fe5307689c" target="_blank" rel="noopener">https://www.jianshu.com/p/30fe5307689c</a></li></ul><p><a name="FynRZ"></a></p><h2 id="音频验证-流程图"><a href="#音频验证-流程图" class="headerlink" title="音频验证 流程图"></a>音频验证 流程图</h2><p><img src="https://cdn.nlark.com/yuque/__flowchart/58b25b694a1f8c6c5be52b7ba382cdfd.svg#lake_card_v2=eyJjb2RlIjoic3Q9PnN0YXJ0OiDmiZPlvIBUcmFuc2ZlclJlY29yZO-8jOWxleekuumfs-mikeWIl-ihqFxub3AxPT5vcGVyYXRpb246IOWvueimgemqjOivgeeahOmfs-mike-8jOmAieaLqemqjOivgeaooeWei--8iOWmguivreenjeivhuWIq-OAgeWjsOmJtOWNoe-8iVxub3AyPT5vcGVyYXRpb246IOS4iuS8oOmfs-mikeWIsOacjeWKoeWZqO-8jOetieW-heWbnuS8oOe7k-aenFxub3AzPT5vcGVyYXRpb246IOWcqOWvueW6lOmfs-mikeaXgeWxleekuue7k-aenO-8iOaWh-Wtl-aIluWkhOeQhuWQjueahOmfs-mike-8iVxuY29uZD0-Y29uZGl0aW9uOiDkuI3pnIDopoHlr7nnu5PmnpzmiZPliIbvvIjmnI3liqHnq6_phY3nva7vvIlcbmU9PmVuZDog5pON5L2c57uT5p2fXG5cbm9wND0-b3BlcmF0aW9uOiDmiZPliIbvvIgxfjEw5YiG77yJXG5cblxuc3QtPm9wMS0-b3AyLT5vcDMtPmNvbmQtPmVcblxuY29uZCh5ZXMpLT5lXG5jb25kKG5vKS0-b3A0LT5lXG4iLCJ1cmwiOiJodHRwczovL2Nkbi5ubGFyay5jb20veXVxdWUvX19mbG93Y2hhcnQvNThiMjViNjk0YTFmOGM2YzViZTUyYjdiYTM4MmNkZmQuc3ZnIiwidHlwZSI6ImZsb3djaGFydCIsImlkIjoiNFVjZTQiLCJjYXJkIjoiZGlhZ3JhbSJ9" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Scrapy学习资料</title>
       <link href="//scrapy-learning/"/>
       <url>//scrapy-learning/</url>
