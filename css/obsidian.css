@@ -93,6 +93,9 @@ pre code .language-mark b {
   font-size: 0.8rem;
   font-family: Rubik, Lato, lucida grande, lucida sans unicode, Tahoma, 'Microsoft Yahei', 'WenQuanYi Micro Hei', sans-serif;
 }
+iframe #player {
+  margin: 0;
+}
 /* Responsive style */
 body {
   margin: 0;
